@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+h1,label{
+  color:#d6e50c;
+}
+.notify{
+  color:#e50c0c;
+}
+.form-control{
+  background-color: #e3e7ee;
+}
